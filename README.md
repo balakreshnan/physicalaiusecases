@@ -16,4 +16,7 @@ Physical AI Use Cases for real world scenarios focus on Humanoids
 - Army, Navy
 - Police
 - Street cleaning
+- In healthcare working as helper in senior living assisted liveing
+- hospitals helpers and cleaning
+- Schools cleaning, gardening
 - 
