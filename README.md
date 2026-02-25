@@ -4,6 +4,8 @@
 
 Physical AI Use Cases for real world scenarios focus on Humanoids
 
+[Architecture](PhysicalAI/physicalaiprocess-1.jpg)
+
 ## Use Cases
 
 - Working in mining - dangerous
