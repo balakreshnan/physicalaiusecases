@@ -4,7 +4,7 @@
 
 Physical AI Use Cases for real world scenarios focus on Humanoids
 
-[Architecture](PhysicalAI/physicalaiprocess-1.jpg)
+![Architecture](PhysicalAI/physicalaiprocess-1.jpg, "Humanoid Training")
 
 ## Use Cases
 
